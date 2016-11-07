@@ -1,15 +1,35 @@
-.wrapper {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    
+/* colors: red: #f7484e grey: #292929 */
+
+body {
+    background-color: #292929;
 }
 
 
-.left {
-    position: absolute;
-    width: 50%;
-    height: 780px;
-    top: 0;
-    background-color:black;
+.navbar {
+    background-color: #292929;
+    border-bottom: none;
+    padding-top: 20px;
+}
+
+.navbar .nav li a {
+    font-size: 1.7em;
+    color: #f7484e;
+    font-family: Gentium Basic, sans-serif;
+    -webkit-transition: 0.3s;
+}
+
+.navbar .nav li a:hover {
+    color: #fddcdc;
+    border-bottom: 0.2px solid #fddcdc;
+    -webkit-transition: 0.6s;
+    transition: 0.6s;
+}
+
+@media (min-width: 768px) {
+    .center-nav {
+        width: 452px;
+        margin: 0 auto;
+        
+    
+    }
 }
