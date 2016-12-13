@@ -1,7 +1,9 @@
 /* colors: red: #f7484e grey: #292929 */
 
+
 body {
     background-color: #292929;
+
 }
 
 
@@ -33,3 +35,111 @@ body {
     
     }
 }
+
+
+
+section.section-one  {
+
+    margin-top: 70px;
+    background-color: #292929;
+    text-align: center;
+    font-family: Gentium Basic, sans-serif;
+    height: 100vh;
+    padding-top: 70px;
+
+
+}
+
+
+section.section-two  {
+
+    margin-top: 70px;
+    background-color: #292929;
+    text-align: center;
+    font-family: Gentium Basic, sans-serif;
+    height: 100vh;
+    padding-top: 70px;
+}
+
+
+
+section.section-three  {
+
+    margin-top: 70px;
+    border-color: #292929;
+    text-align: center;
+    font-family: Gentium Basic, sans-serif;
+    height: 100vh;
+    padding-top: 70px;
+
+}
+
+section.section-four  {
+
+    margin-top: 70px;
+    background-color: #292929;
+    text-align: center;
+    font-family: Gentium Basic, sans-serif;
+    height: 100vh;
+    padding-top: 70px;
+}
+
+
+section.section-four.label {
+    display: block;
+    margin-top: 20px;
+    letter-spacing: 2px;
+
+}
+
+input {
+    margin-top: 24px;
+}
+
+textarea {
+    margin-top: 24px;
+}
+
+button {
+    margin-top: 24px;
+}
+
+div.panel-body{
+    background-color: #292929;
+
+}
+
+div.panel-default {
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
